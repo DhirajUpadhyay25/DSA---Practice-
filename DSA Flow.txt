@@ -1,0 +1,79 @@
+#DSA Flow ->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+->Complete Classification of Data Structures
+
+Data Structures(2-Types)
+│
+├── Primitive(1)
+│   ├── int
+│   ├── char
+│   ├── float
+│   └── Boolean
+│
+└── Non-Primitive(2)
+    │
+    ├── Linear DS(i)
+    │   ├── Array(2)
+    │   ├── Linked List(4)
+    │   ├── Stack
+    │   ├── Queue(3)
+    │   └── Deque
+    │
+    └── Non-Linear Ds(ii)
+        ├── Tree
+        └── Graph
+
+
+->Complete DSA Roadmap>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+DSA
+│
+├── Data Structures
+│   ├── Array
+│   ├── Linked List
+│   ├── Stack
+│   ├── Queue
+│   ├── Hashing
+│   ├── Tree
+│   └── Graph
+│
+└── Algorithms
+    ├── Searching(Binary/Linear Searching)
+    ├── Sorting (Bubble Sort/Selection Sort/Insertion Sort/Merge Sort/Quick Sort/Heap Sort)
+    ├── Recursion (A function calling itself....)
+    ├── Backtracking (N-Queens Problem)
+    ├── Greedy (Kruskal’s Algorithm/Huffman Coding/Activity Selection)
+    ├── Dynamic Programming (Knapsack Problem/Fibonacci/Longest Common Subsequence)
+    ├── Divide & Conquer(Merge Sort/Quick Sort/Binary Search)
+    └── Graph Algorithms (Dijkstra Algorithm/Floyd Warshall/Prim’s Algorithm/Kruskal Algorithm/Topological Sort) & (BFS/DFS/Shortest Path Algorithms/Minimum Spanning Tree)
+    ___ Trees (Binary Tree/Binary Search Tree (BST)/AVL Tree/Heap/B-Tree/Tire)
+
+#Most Important DSA Topics for Interviews>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+1>Beginner Level>>>>>>>>>>>>>>>>>>>>>>>>>
+
+Arrays
+Strings
+Sorting
+Searching
+Stack & Queue
+Recursion
+
+2>Intermediate Level>>>>>>>>>>>>>>>>>>>>>>
+
+Linked List
+Trees
+Binary Search
+HashMap
+Sliding Window
+Advanced Level
+Graphs
+
+3>Dynamic Programming>>>>>>>>>>>>>>>>>>>>>
+Greedy
+Backtracking
+Tries
+Segment Trees
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Finished>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+
