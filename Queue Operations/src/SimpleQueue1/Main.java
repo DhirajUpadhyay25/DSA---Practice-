@@ -24,7 +24,5 @@ public class Main
         ll.dequeue();
         ll.display();
         ll.peek();
-
-
     }
 }
