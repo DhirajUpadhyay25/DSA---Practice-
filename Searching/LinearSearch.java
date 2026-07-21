@@ -1,9 +1,7 @@
 
 import java.util.Scanner;
-public class LinearSearch
-
-{
-    public static int LinearSearchs(int Array[], int Target)
+public class LinearSearch {
+    public static int Linearsearchs(int[] Array, int Target)
     {
         int index = -1;
         for (int i = 0; i < Array.length; i++) {
@@ -26,9 +24,9 @@ public class LinearSearch
           System.out.println("Enter target Element");
           int target = scanner.nextInt();
 
-          int foundAt = LinearSearchs(arr, target);
+          int foundAt = Linearsearchs(arr, target);
           if (foundAt > -1) {
-              System.out.println("Element found at Index:" + foundAt);
+              System.out.println("Element found at Index:" + foundAt +" Elment is : " + arr[foundAt]);
 
           } else {
             System.out.print("Element Not Found in this Array:");

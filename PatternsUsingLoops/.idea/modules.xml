@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Array2d/Array2d.iml" filepath="$PROJECT_DIR$/Array2d/Array2d.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pattern1/Pattern1.iml" filepath="$PROJECT_DIR$/Pattern1/Pattern1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Patterns2.java/Patterns2.java.iml" filepath="$PROJECT_DIR$/Patterns2.java/Patterns2.java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/PatternsUsingLoops.iml" filepath="$PROJECT_DIR$/.idea/PatternsUsingLoops.iml" />
+    </modules>
+  </component>
+</project>

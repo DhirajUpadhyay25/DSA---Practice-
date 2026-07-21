@@ -12,7 +12,7 @@ public class FindMissingNumber {
  
     }
     public static void main(String[] args) {
-            int[] arr = {1, 2, 3,4,5,6,7,9}; // N = 5
+            int[] arr = {1, 2, 3,4,5,6,7,9}; // N total numbers 8+1=9
             int N = arr.length+1;
 
             System.out.println("Missing Number: " + MissingNumber(arr, N));
